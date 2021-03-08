@@ -1,6 +1,6 @@
 ### Hi there, I'm Mei Wen-Xing  👋
 
-<img align="right" alt="GIF" src="https://github.com/mwxgh/mwxgh/blob/master/coder.gif?raw=true" width="300" height="180" />
+<img align="right" alt="GIF" src="https://github.com/mwxgh/mwxgh/blob/master/1.gif?raw=true" width="300" height="180" />
 
 
 ## I'm a Developer, and !!
