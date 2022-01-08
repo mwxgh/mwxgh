@@ -21,7 +21,7 @@
 ### Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs&logoColor=23527c)
+![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs&logoColor=ea2845)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
