@@ -24,10 +24,10 @@
 ![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
+
+
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -39,7 +39,7 @@
 
 <img align="left" alt="mwx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mwxgh&show_icons=true&theme=radical" />
 <br/>
-<img align="left" alt="mwx's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwxgh&theme=radical&hide" />
+<img align="left" alt="mwx's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwxgh&theme=radical&hide=html" />
 
 
 [twitter]: https://twitter.com/mwxtwt
