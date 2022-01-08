@@ -20,6 +20,8 @@
 
 ### Languages and Tools:
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -37,7 +39,7 @@
 
 <img align="left" alt="mwx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mwxgh&show_icons=true&theme=radical" />
 <br/>
-<img align="left" alt="mwx's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwxgh&theme=radical&hide=scss" />
+<img align="left" alt="mwx's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwxgh&theme=radical&hide" />
 
 
 [twitter]: https://twitter.com/mwxtwt
