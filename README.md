@@ -16,6 +16,7 @@
 [<img align="left" alt="mwx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mwx | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mwx | Tumblr"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
 <br />
 
 ### Languages and Tools:
@@ -48,3 +49,4 @@
 [instagram]: https://www.instagram.com/mwxins/
 [linkedin]: https://www.linkedin.com/in/mwxlin/
 [facebook]: https://www.facebook.com/mwxfb/
+[tumblr]: https://www.tumblr.com/blog/mwxtb
